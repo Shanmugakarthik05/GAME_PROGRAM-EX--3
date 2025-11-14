@@ -1,4 +1,7 @@
 # GAME_PROGRAM-EX--3
+
+# Change the third person character mesh and add animations
+
 ## Aim
 To replace the default third person character mesh with a custom skeletal mesh and apply new animations using an animation blueprint.
 
